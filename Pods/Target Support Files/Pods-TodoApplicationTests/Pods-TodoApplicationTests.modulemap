@@ -1,0 +1,6 @@
+framework module Pods_TodoApplicationTests {
+  umbrella header "Pods-TodoApplicationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
